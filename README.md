@@ -1,4 +1,4 @@
-<h1 align="center"> ATIVIDADE 01 FOR :computer: </h1> :computer:
+<h1 align="center"> ATIVIDADE 01 FOR :computer: </h1>  # Título 
 
 
 Faça esses três programas abaixo, utilizando a função FOR.
