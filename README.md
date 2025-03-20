@@ -1,7 +1,7 @@
 <h1 align="center"> :pushpin: ATIVIDADE 01 FOR :computer: :books: </h1>  
 
 
-Faça esses três programas abaixo, utilizando a função FOR.
+:pushpin Faça esses três programas abaixo, utilizando a função FOR.
 
 1) Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 
